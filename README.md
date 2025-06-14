@@ -23,12 +23,12 @@ Learning Assistant 是一个智能作业辅导系统，帮助学生管理作业�
 
 ## 运行
 ```bash
-python homework_assistant.py
+python app.py
 ```
 访问 `http://127.0.0.1:7861` 查看 Gradio 界面。
 
 ## 文档
-详见 [homework_assistant_documentation_en.md]。
+详见 [learning_assistant_documentation_en.docx]。
 
 ## 许可证
 MIT License
